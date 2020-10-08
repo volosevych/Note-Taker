@@ -11,7 +11,7 @@ fs.readFile("db/db.json", "json", function(data) {
     var notes = data;
 })
 
-require("routes/routes")(app);
+require("routes/APIroutes")(app);
 
 app.listen(PORT, function() {
     console.log("App lostening on http://localhost:" + PORT);
