@@ -15,7 +15,9 @@
     Clone the repository to your local development environment: 
     git@github.com:volosevych/Note-Taker.git. 
     
-    Run "npm install" to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:5000 in your preferred browser. The Note Taker app is live on Heroku for you to use as well.
+    Run "npm install" to install all dependencies. To use the application locally,
+    run node server.js in your CLI, and then open http://localhost:5000 in your preferred browser. 
+    The Note Taker app is live on Heroku for you to use as well.
 
 ## Preview:
  GIF
