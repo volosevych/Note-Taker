@@ -19,6 +19,9 @@ Clone the repository to your local development environment:
 
 ## Preview:
  GIF
+ 
+## Deployed Link: 
+- [Note Taker App](https://polar-everglades-72513.herokuapp.com/)
 ## License:
     For more information about the License, click on the link below.
     
