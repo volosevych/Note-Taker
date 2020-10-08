@@ -18,7 +18,7 @@ Clone the repository to your local development environment:
  The Note Taker app is live on Heroku for you to use as well.
 
 ## Preview:
- GIF
+![Node-Taker](https://user-images.githubusercontent.com/66918031/95515458-e6eec580-097a-11eb-97e5-00c300bd0064.gif)
  
 ## Deployed Link: 
 - [Note Taker App](https://polar-everglades-72513.herokuapp.com/)
